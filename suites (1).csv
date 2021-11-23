@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Nov 22 13:26:16 IST 2021","Mon Nov 22 13:26:16 IST 2021","3","Default suite","Default test","allureport.test","allureport.test","beforeMethod","beforeMethod",""
+"broken","Mon Nov 22 13:28:47 IST 2021","Mon Nov 22 13:28:47 IST 2021","19","Default suite","Default test","allureport.test","allureport.test","f","f",""
+"broken","Mon Nov 22 13:28:48 IST 2021","Mon Nov 22 13:28:48 IST 2021","1","Default suite","Default test","allureport.test","allureport.test","afterMethod","afterMethod",""
+"broken","Mon Nov 22 14:16:14 IST 2021","Mon Nov 22 14:16:14 IST 2021","4","Default suite","Default test","allureport.NewTest","allureport.NewTest","beforeMethod","beforeMethod",""
+"passed","Tue Nov 23 15:22:36 IST 2021","Tue Nov 23 15:22:38 IST 2021","2022","Default suite","Default test","allureport.testnglogin","allureport.testnglogin","f","f",""
+"passed","Mon Nov 22 14:51:00 IST 2021","Mon Nov 22 14:51:03 IST 2021","3040","Default suite","Default test","allureport.NewTest","allureport.NewTest","f","f",""
